@@ -1,7 +1,12 @@
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(./WorkingWithEmotionalIntelligence.jpeg);
+  /*làm tối phần ảnh để nổi bật text _hero section component*/
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./WorkingWithEmotionalIntelligence.jpeg);
 }
 .container {
   width: 50% !important;
@@ -9,11 +14,19 @@
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(./Jan28-2021.jpg);
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./Jan28-2021.jpg);
 }
 
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(./Jul07-2020.jpg);
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(./Jul07-2020.jpg);
 }
