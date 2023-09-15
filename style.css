@@ -30,3 +30,14 @@
     ),
     url(./Jul07-2020.jpg);
 }
+@media (max-width: 414px) {
+  /*chuyển lại phần thông tin thành cột*/
+  html,
+  body {
+    overflow-x: hidden;
+
+    .container {
+      width: 100% !important;
+    }
+  }
+}
