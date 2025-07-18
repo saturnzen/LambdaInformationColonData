@@ -7,9 +7,10 @@ assignees: saturnzen
 
 ---
 
-1 Question For Me
-There's a difference between feeling tired and feeling empty. One probably needs sleep. The other may need purpose.
+> [!CAUTION]
+>1 Question For Me
 
-Are you low on rest or low on meaning?
+Life is always progressing to the next stage. As you enter a new season, habits that previously served you well may need to be refreshed or adjusted. Which one of your current habits have you outgrown and is in need of a change?
 
-Want to share this issue of 3-2-1? Just copy and paste this link: https://jamesclear.com/3-2-1/june-26-2025
+> [!TIP]
+>Want to share this issue of 3-2-1? Just copy and paste this link: https://jamesclear.com/3-2-1/july-17-2025
