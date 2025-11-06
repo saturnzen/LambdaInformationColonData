@@ -7,9 +7,13 @@ assignees: saturnzen
 
 ---
 
-Tác giả:
+Tác giả: 
 tựa tiếng anh:
-tựa tiếng việt:
+tựa tiếng việt: 
+>  NHÀ XUẤT BẢN 
+ **__** dịch
+**__** hiệu đính
+
 cuốn sách đọc trước đó: 
-khóa học đang theo đuổi:
+khóa học đang theo đuổi: 
 nghề nghiệp đang theo đuổi:
