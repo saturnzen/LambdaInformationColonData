@@ -10,6 +10,7 @@ assignees: saturnzen
 Tác giả: 
 tựa tiếng anh:
 tựa tiếng việt: 
+>  CÔNG TY PHÁT HÀNH 
 >  NHÀ XUẤT BẢN 
  **__** dịch
 **__** hiệu đính
