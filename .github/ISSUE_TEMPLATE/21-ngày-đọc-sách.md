@@ -7,14 +7,14 @@ assignees: saturnzen
 
 ---
 
-Tác giả: 
+Tác giả: Dan Ariely
 tựa tiếng anh:
 tựa tiếng việt: 
->  CÔNG TY PHÁT HÀNH 
+>  CÔNG TY PHÁT HÀNH Alphabooks
 >  NHÀ XUẤT BẢN 
  **__** dịch
 **__** hiệu đính
 
-cuốn sách đọc trước đó: 
-khóa học đang theo đuổi: 
-nghề nghiệp đang theo đuổi:
+cuốn sách đọc trước đó:  Never lead Alone
+khóa học đang theo đuổi: TOEIC 850
+nghề nghiệp đang theo đuổi: Business data analyst
