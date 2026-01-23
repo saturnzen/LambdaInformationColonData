@@ -41,3 +41,86 @@
     }
   }
 }
+
+
+/* New styles for the 'Neuro Insights' content section */
+#neuro-insights {
+  padding: 40px 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #f8f9fa; /* Light background for new content */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Subtle shadow */
+  max-width: 900px; /* Max width for improved readability on large screens */
+  margin-left: auto; /* Center the block */
+  margin-right: auto; /* Center the block */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Professional font stack */
+  color: #343a40; /* Dark grey for good contrast */
+  line-height: 1.7; /* Enhanced line spacing for readability */
+}
+
+#neuro-insights h2 {
+  color: #007bff; /* Primary blue for main heading */
+  margin-bottom: 30px;
+  font-size: 2.5em; /* Larger main title */
+  text-align: center;
+  font-weight: 600;
+}
+
+#neuro-insights h3 {
+  color: #212529; /* Darker heading for sub-sections */
+  margin-top: 35px;
+  margin-bottom: 15px;
+  font-size: 1.8em;
+  font-weight: 500;
+  border-bottom: 1px solid #e9ecef; /* Subtle separator */
+  padding-bottom: 8px;
+}
+
+#neuro-insights p {
+  margin-bottom: 1em; /* Standard paragraph spacing */
+  font-size: 1.1em;
+}
+
+#neuro-insights ul {
+  list-style-type: disc;
+  margin-left: 30px; /* Indent lists */
+  margin-bottom: 1em;
+  padding: 0;
+}
+
+#neuro-insights ul li {
+  margin-bottom: 0.5em;
+  font-size: 1.05em;
+}
+
+#neuro-insights strong {
+  font-weight: 700; /* Bold for emphasized text */
+  color: #dc3545; /* A subtle accent color for strong text */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  #neuro-insights {
+    padding: 25px 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 0; /* No border-radius on very small screens for edge-to-edge feel */
+    box-shadow: none; /* No shadow on very small screens */
+  }
+
+  #neuro-insights h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  #neuro-insights h3 {
+    font-size: 1.5em;
+    margin-top: 25px;
+  }
+
+  #neuro-insights p,
+  #neuro-insights ul li {
+    font-size: 1em;
+  }
+}
