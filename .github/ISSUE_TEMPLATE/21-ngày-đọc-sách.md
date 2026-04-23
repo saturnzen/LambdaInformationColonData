@@ -16,5 +16,5 @@ tựa tiếng việt:
 **__** hiệu đính
 
 cuốn sách đọc trước đó:  Never lead Alone
-khóa học đang theo đuổi: TOEIC 850
+khóa học đang theo đuổi: TOEIC 900
 nghề nghiệp đang theo đuổi: Business data analyst
